@@ -1,0 +1,29 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: Arial, Verdana;
+	width: 100%;
+}
+body {
+	background-color: #ccc;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+body section {
+	background-color: #fff;
+	width: 90%;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.calc{
+	width: 320px;
+	height: 575px;
+	background-color: #ff0000;
+}
+
+
+
+
